@@ -1,4 +1,4 @@
-package com.neosting.lib.mock;
+package io.github.nbl77.lib.mock;
 
 public class MockType {
     String type;

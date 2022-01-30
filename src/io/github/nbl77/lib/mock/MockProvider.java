@@ -1,4 +1,4 @@
-package com.neosting.lib.mock;
+package io.github.nbl77.lib.mock;
 
 import java.lang.reflect.Array;
 import java.lang.reflect.Field;
